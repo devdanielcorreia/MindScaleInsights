@@ -1,0 +1,74 @@
+{
+  "common": {
+    "welcome": "Welcome",
+    "loading": "Loading...",
+    "error": "Error",
+    "success": "Success",
+    "cancel": "Cancel",
+    "save": "Save",
+    "delete": "Delete",
+    "edit": "Edit",
+    "create": "Create",
+    "back": "Back",
+    "next": "Next",
+    "previous": "Previous",
+    "submit": "Submit",
+    "search": "Search"
+  },
+  "landing": {
+    "hero": {
+      "title": "Psychological Assessments",
+      "subtitle": "High-Precision Corporate Solutions",
+      "description": "Complete SaaS platform for psychologists and companies to apply, manage, and analyze behavioral assessments with scientific rigor and enterprise scale.",
+      "cta_primary": "Get Started",
+      "cta_secondary": "View Demo"
+    },
+    "features": {
+      "title": "Complete Features",
+      "subtitle": "Everything you need in one platform",
+      "psychologist": {
+        "title": "For Psychologists",
+        "description": "Create custom assessment instruments, manage psychological traits, and track results in real-time.",
+        "features": ["Quiz Creation", "Psychological Traits", "Detailed Reports"]
+      },
+      "company": {
+        "title": "For Companies",
+        "description": "Manage employees, assign assessments, and visualize organizational insights with intuitive dashboards.",
+        "features": ["Employee Management", "Analytics Dashboards", "Data Export"]
+      },
+      "employee": {
+        "title": "For Employees",
+        "description": "Simple and intuitive interface to answer assessments and access results securely and independently.",
+        "features": ["Link Access", "Multilingual", "Instant Results"]
+      }
+    },
+    "footer": {
+      "copyright": "© 2025 MindScale. All rights reserved.",
+      "product": "Product",
+      "company": "Company",
+      "support": "Support"
+    }
+  },
+  "auth": {
+    "login": "Login",
+    "logout": "Logout",
+    "signup": "Sign Up",
+    "email": "Email",
+    "password": "Password",
+    "forgot_password": "Forgot password?",
+    "dont_have_account": "Don't have an account?",
+    "already_have_account": "Already have an account?"
+  },
+  "dashboard": {
+    "psychologist": {
+      "title": "Psychologist Dashboard",
+      "welcome": "Hello",
+      "subtitle": "Manage your assessments and track results"
+    },
+    "company": {
+      "title": "Company Dashboard",
+      "welcome": "Welcome",
+      "subtitle": "Track your team's development"
+    }
+  }
+}

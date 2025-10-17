@@ -1,0 +1,74 @@
+{
+  "common": {
+    "welcome": "Bem-vindo",
+    "loading": "Carregando...",
+    "error": "Erro",
+    "success": "Sucesso",
+    "cancel": "Cancelar",
+    "save": "Salvar",
+    "delete": "Excluir",
+    "edit": "Editar",
+    "create": "Criar",
+    "back": "Voltar",
+    "next": "Próximo",
+    "previous": "Anterior",
+    "submit": "Enviar",
+    "search": "Buscar"
+  },
+  "landing": {
+    "hero": {
+      "title": "Avaliações Psicológicas",
+      "subtitle": "Corporativas de Alta Precisão",
+      "description": "Plataforma SaaS completa para psicólogos e empresas aplicarem, gerenciarem e analisarem avaliações comportamentais com rigor científico e escala empresarial.",
+      "cta_primary": "Começar Agora",
+      "cta_secondary": "Ver Demonstração"
+    },
+    "features": {
+      "title": "Recursos Completos",
+      "subtitle": "Tudo que você precisa em uma plataforma",
+      "psychologist": {
+        "title": "Para Psicólogos",
+        "description": "Crie instrumentos avaliativos customizados, gerencie características psicológicas e acompanhe resultados em tempo real.",
+        "features": ["Criação de Quizzes", "Características Psicológicas", "Relatórios Detalhados"]
+      },
+      "company": {
+        "title": "Para Empresas",
+        "description": "Gerencie colaboradores, atribua avaliações e visualize insights organizacionais com dashboards intuitivos.",
+        "features": ["Gestão de Funcionários", "Dashboards Analíticos", "Exportação de Dados"]
+      },
+      "employee": {
+        "title": "Para Colaboradores",
+        "description": "Interface simples e intuitiva para responder avaliações e acessar resultados de forma segura e independente.",
+        "features": ["Acesso via Link", "Multilíngue", "Resultados Instantâneos"]
+      }
+    },
+    "footer": {
+      "copyright": "© 2025 MindScale. Todos os direitos reservados.",
+      "product": "Produto",
+      "company": "Empresa",
+      "support": "Suporte"
+    }
+  },
+  "auth": {
+    "login": "Entrar",
+    "logout": "Sair",
+    "signup": "Cadastrar",
+    "email": "E-mail",
+    "password": "Senha",
+    "forgot_password": "Esqueceu a senha?",
+    "dont_have_account": "Não tem uma conta?",
+    "already_have_account": "Já tem uma conta?"
+  },
+  "dashboard": {
+    "psychologist": {
+      "title": "Painel do Psicólogo",
+      "welcome": "Olá",
+      "subtitle": "Gerencie suas avaliações e acompanhe resultados"
+    },
+    "company": {
+      "title": "Painel da Empresa",
+      "welcome": "Bem-vindo",
+      "subtitle": "Acompanhe o desenvolvimento da sua equipe"
+    }
+  }
+}

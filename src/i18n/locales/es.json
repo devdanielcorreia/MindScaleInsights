@@ -1,0 +1,74 @@
+{
+  "common": {
+    "welcome": "Bienvenido",
+    "loading": "Cargando...",
+    "error": "Error",
+    "success": "Éxito",
+    "cancel": "Cancelar",
+    "save": "Guardar",
+    "delete": "Eliminar",
+    "edit": "Editar",
+    "create": "Crear",
+    "back": "Volver",
+    "next": "Siguiente",
+    "previous": "Anterior",
+    "submit": "Enviar",
+    "search": "Buscar"
+  },
+  "landing": {
+    "hero": {
+      "title": "Evaluaciones Psicológicas",
+      "subtitle": "Corporativas de Alta Precisión",
+      "description": "Plataforma SaaS completa para psicólogos y empresas aplicar, gestionar y analizar evaluaciones conductuales con rigor científico y escala empresarial.",
+      "cta_primary": "Comenzar Ahora",
+      "cta_secondary": "Ver Demostración"
+    },
+    "features": {
+      "title": "Características Completas",
+      "subtitle": "Todo lo que necesitas en una plataforma",
+      "psychologist": {
+        "title": "Para Psicólogos",
+        "description": "Cree instrumentos evaluativos personalizados, gestione características psicológicas y acompañe resultados en tiempo real.",
+        "features": ["Creación de Cuestionarios", "Características Psicológicas", "Informes Detallados"]
+      },
+      "company": {
+        "title": "Para Empresas",
+        "description": "Gestione colaboradores, asigne evaluaciones y visualice insights organizacionales con dashboards intuitivos.",
+        "features": ["Gestión de Empleados", "Dashboards Analíticos", "Exportación de Datos"]
+      },
+      "employee": {
+        "title": "Para Colaboradores",
+        "description": "Interfaz simple e intuitiva para responder evaluaciones y acceder a resultados de forma segura e independiente.",
+        "features": ["Acceso vía Enlace", "Multiidioma", "Resultados Instantáneos"]
+      }
+    },
+    "footer": {
+      "copyright": "© 2025 MindScale. Todos los derechos reservados.",
+      "product": "Producto",
+      "company": "Empresa",
+      "support": "Soporte"
+    }
+  },
+  "auth": {
+    "login": "Iniciar Sesión",
+    "logout": "Cerrar Sesión",
+    "signup": "Registrarse",
+    "email": "Correo Electrónico",
+    "password": "Contraseña",
+    "forgot_password": "¿Olvidó la contraseña?",
+    "dont_have_account": "¿No tiene una cuenta?",
+    "already_have_account": "¿Ya tiene una cuenta?"
+  },
+  "dashboard": {
+    "psychologist": {
+      "title": "Panel del Psicólogo",
+      "welcome": "Hola",
+      "subtitle": "Gestione sus evaluaciones y acompañe resultados"
+    },
+    "company": {
+      "title": "Panel de la Empresa",
+      "welcome": "Bienvenido",
+      "subtitle": "Acompañe el desarrollo de su equipo"
+    }
+  }
+}
