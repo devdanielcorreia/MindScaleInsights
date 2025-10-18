@@ -29,10 +29,15 @@ git clone <YOUR_GIT_URL>
 # Step 2: Navigate to the project directory.
 cd <YOUR_PROJECT_NAME>
 
-# Step 3: Install the necessary dependencies.
+# Step 3: Create your local env file (copies .env.example without committing secrets).
+cp .env.example .env.local
+
+# Step 4: Fill in .env.local with the Supabase URL, Project ID and anon key.
+
+# Step 5: Install the necessary dependencies.
 npm i
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
+# Step 6: Start the development server with auto-reloading and an instant preview.
 npm run dev
 ```
 
@@ -81,7 +86,7 @@ When deploying on Vercel, you'll need to add these environment variables in your
 - `VITE_SUPABASE_PUBLISHABLE_KEY` - Your Supabase publishable key
 - `VITE_SUPABASE_URL` - Your Supabase project URL
 
-These should match the values from your `.env` file.
+These should match the values from your `.env.local` (copied from `.env.example` and filled with the real credentials).
 
 ### Alternative Deployment Method
 
